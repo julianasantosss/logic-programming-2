@@ -1,0 +1,15 @@
+body {
+    background-image: url('https://img.freepik.com/foto-gratis/fantastico-cielo-azul_1203-1929.jpg?t=st=1727496313~exp=1727499913~hmac=736a64ca0e053d139c33567ccdbc5b9bb5db9b55d7406457f262dcfff6d723cb&w=1060');
+    background-size: cover;
+}
+
+.result {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.squared {
+    background-color: rgba(242, 242, 242, 0.708);
+    border-radius: 20px;
+    margin-top: 10%;
+}
